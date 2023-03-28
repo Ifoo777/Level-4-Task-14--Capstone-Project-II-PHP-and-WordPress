@@ -1,0 +1,34 @@
+/*Style the body for more impact*/
+body {
+    background-image: linear-gradient(to right, purple, lime);
+	color: white;
+	/*Impact font*/
+	font-family:sans-serif
+}
+
+/*All Headings & subheadings Bold*/
+/*Main Headings Cool Tech Blue*/
+h1,h2,h3,h4,h5,h6{
+	color:#118AB2;
+	font-weight:bold;
+}
+
+/*Cool Tech Orange and Bolder link*/
+a{
+	color: #EE6C4D;
+	font-weight:bolder;
+}
+
+/*Listing text right aligned*/
+li{
+	text-align:right;
+}
+
+/*Make the Hot Right Now class stand out*/
+.home-hot-items{
+	background:black;
+}
+.hot-item-list{
+	background:black;
+	padding:10px;
+}
